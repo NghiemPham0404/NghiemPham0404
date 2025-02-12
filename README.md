@@ -27,7 +27,7 @@ I am a passionate mobile developer with a strong foundation in both native and c
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/439233/mysql.svg" alt="mysql" width="40" height="40"/></a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/></a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png" alt="mssql" width="40" height="40"/></a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="mssql" width="40" height="40"/></a> 
 
 </p>
 
@@ -49,9 +49,6 @@ I am a passionate mobile developer with a strong foundation in both native and c
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
 <a href="https://dbml.dbdiagram.io/" target="_blank" rel="noreferrer"> <img src="https://dbml.dbdiagram.io/img/dbml-logo.png" alt="DBML" width="40" height="40"/></a> 
 
-
-7. Testing & Debugging
-JUnit Testing
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nghiempham0404&show_icons=true&locale=en&layout=compact" alt="nghiempham0404" /></p>
